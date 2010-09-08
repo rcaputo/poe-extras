@@ -1,5 +1,3 @@
-# $Id$
-
 # Whip is where the basic stuff goes.
 
 package Whip;

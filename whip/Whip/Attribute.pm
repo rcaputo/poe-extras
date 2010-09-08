@@ -1,5 +1,3 @@
-# $Id$
-
 # Whip::Attribute is a name/value pair.  It could be a hash, but we
 # store them in lists because there are potentially duplicates.
 

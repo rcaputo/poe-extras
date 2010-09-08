@@ -1,5 +1,4 @@
 #!/usr/bin/perl
-# $Header$
 
 =head1 NAME
 
@@ -8,14 +7,6 @@ index.cgi - POE test server framework
 =head1 AUTHOR
 
 Matt Cashner (sungo+poe@eekeek.org)
-
-=head1 DATE 
-
-$Date$
-
-=head1 REVISION
-
-$Revision$
 
 =head1 DESCRIPTION
 

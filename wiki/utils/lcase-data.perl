@@ -1,5 +1,4 @@
 #!/usr/bin/perl -w
-# $Id$
 
 # Converts page files to lowercase so that the $ForceLcaseFiles option
 # works better.

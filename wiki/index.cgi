@@ -11,8 +11,6 @@ exec /usr/local/bin/perl -x $0
 #!perl
 #line 13
 #
-# $Id$
-#
 # This wiki has no name.  It's based on:
 # UseModWiki version 0.91 (February 12, 2001)
 # By the time it's done, it should bear little resemblance.
@@ -184,9 +182,6 @@ use constant ACT_RC_EDIT_RENAME => 2;
 my (
 	%inter_site_map, %request_state,
 );
-
-# Automatically filled in by version control.
-my $VERSION = (qw($Revision$))[1];
 
 ##############################
 ### INITIALIZATION SECTION ###

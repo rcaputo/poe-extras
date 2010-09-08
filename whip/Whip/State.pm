@@ -1,5 +1,3 @@
-# $Id$
-
 # Wrapper for a whip request/response transaction.
 
 package Whip::State;

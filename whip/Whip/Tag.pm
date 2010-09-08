@@ -1,5 +1,3 @@
-# $Id$
-
 # Whip::Tag is what all the whip tag handlers inherit from.  It
 # supplies basic features for parsing and rendering tags.
 
